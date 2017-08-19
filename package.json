@@ -1,6 +1,6 @@
 {
   "name": "sort-tabs-by-",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Sort tabs by something",
   "scripts": {
     "chrome-build": "cross-env TARGET=chrome gulp",
